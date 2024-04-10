@@ -1,0 +1,15 @@
+/Users/mintayza/MTZDotNetCore/bin/Debug/net7.0/MTZ
+/Users/mintayza/MTZDotNetCore/bin/Debug/net7.0/MTZ.deps.json
+/Users/mintayza/MTZDotNetCore/bin/Debug/net7.0/MTZ.runtimeconfig.json
+/Users/mintayza/MTZDotNetCore/bin/Debug/net7.0/MTZ.dll
+/Users/mintayza/MTZDotNetCore/bin/Debug/net7.0/MTZ.pdb
+/Users/mintayza/MTZDotNetCore/obj/Debug/net7.0/MTZ.csproj.AssemblyReference.cache
+/Users/mintayza/MTZDotNetCore/obj/Debug/net7.0/MTZ.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mintayza/MTZDotNetCore/obj/Debug/net7.0/MTZ.AssemblyInfoInputs.cache
+/Users/mintayza/MTZDotNetCore/obj/Debug/net7.0/MTZ.AssemblyInfo.cs
+/Users/mintayza/MTZDotNetCore/obj/Debug/net7.0/MTZ.csproj.CoreCompileInputs.cache
+/Users/mintayza/MTZDotNetCore/obj/Debug/net7.0/MTZ.dll
+/Users/mintayza/MTZDotNetCore/obj/Debug/net7.0/refint/MTZ.dll
+/Users/mintayza/MTZDotNetCore/obj/Debug/net7.0/MTZ.pdb
+/Users/mintayza/MTZDotNetCore/obj/Debug/net7.0/MTZ.genruntimeconfig.cache
+/Users/mintayza/MTZDotNetCore/obj/Debug/net7.0/ref/MTZ.dll
